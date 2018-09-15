@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string-array name="questions">
+        <item>Which of the following is NOT a chemical element?</item>
+        <item>Mexico is located on which side of the United States of America?</item>
+        <item>The Earth is approximately how many miles away from the sun?</item>
+        <item>Which insect shorted out an early supercomputer and inspired the term "computer bug"?</item>
+        <item>Which of the following men does not have a chemical element named after him?</item>
+        <item>Which of the following landlocked countries is entirely contained within another country?</item>
+        <item>What architect designed the glass pyramid in the courtyard of the Louvre?</item>
+        <item>Who is credited with inventing the first mass-produced helicopter?</item>
+        <item>Who developed the first effective vaccine against polio?</item>
+        <item>The U.S. icon "Uncle Sam" was based on Samuel Wilson, who worked during the War of 1812 as a what?</item>
+
+    </string-array>
+
+    <string-array name="answers">
+        <item>A) Magnesium:B) Chromium:C) Silicon:D) Kryton</item>
+        <item>A) South:B) North:C) East:D) West</item>
+        <item>A) 9.3 million:B) 39 million:C) 93 million:D) 193 million </item>
+        <item>A) Moth:B) Roach:C) Fly:D) Japanese beetle </item>
+        <item>A) Albert Einstein:B) Niels Bohr:C) Issac Newton:D) Enrico Fermi </item>
+        <item>A) Lesotho:B) Burkina Faso:C) Mongolia:D) Luxembourg </item>
+        <item>A) Philip Johnson:B) Le Corbusier:C) Frank Gehry:D) I.M. Pei</item>
+        <item>A) Igor Sikorsky:B) Elmer Sperry:C) Ferdinand von Zeppelin:D) Gottlieb Daimler </item>
+        <item>A) Albert Sabin:B) Niels Bohr:C) Louis Pasteur:D) Jonas Salk</item>
+        <item>A) Meat inspector:B) Mail deliverer:C) Historian:D) Weapons Mechanic</item>
+    </string-array>
+
+    <string-array name="correctAnswers">
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+    </string-array>
+</resources>
