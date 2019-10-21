@@ -1,4 +1,4 @@
-# android_quiz_game
+# Android Quiz Game
 Quiz game for android smart phones
 
 Questions and answers are stored in strings.xml
